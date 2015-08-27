@@ -1,0 +1,8 @@
+English:ali,:eng:12:150:;
+Mathematics:rajer,adem,:math:21:275:;
+Science:Ahmed,Hasan,:sc:5:125:;
+Bio:Adem,Smith,David,:sc:10:128:;
+Chem:umer,:sc:15:250:;
+Cobol:asim,:cs:3:300:;
+Java:ismaiel,:cs:5:250:;
+Data Structure:nasir,:cs:10:275:;
